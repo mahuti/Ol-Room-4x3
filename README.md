@@ -10,28 +10,29 @@ OlRoom was done very well, but it doesn't work for my setup, so I had to create 
 Since my themes are 4:3 and use slightly different code I decided to create my own thread. 
 
 ## Features: 
-Themes are 4:3 ratio
-Does not use a spinning wheel (but does use wheel logos)
-Contains changed console images and controller images. 
-I tried to adjust the scaling and perspective to be in tighter range.
-Image/Names are based on US console versions
+- Themes are 4:3 ratio
+- Does not use a spinning wheel (but does use wheel logos)
+- Contains changed console images and controller images. 
+- I tried to adjust the scaling and perspective to be in tighter range.
+- Image/Names are based on US console versions
 
 These themes all assume the use of Hyperspin & Emumovies assets for videosnaps, flyers, etc. 
 I'll note what is required in the description of each one. 
 
 I've made a unified layout so you only need one theme folder to handle multiple emulators. 
+
 It displays: 
 
--Atari 2600
--Intellivision
--Nintendo NES
--Nintendo SNES
--Nintendo 64
--Sega Genesis
--Sony Playstation
--ScummVM
--Generic PC
--Generic TV
+- Atari 2600
+- Intellivision
+- Nintendo NES
+- Nintendo SNES
+- Nintendo 64
+- Sega Genesis
+- Sony Playstation
+- ScummVM
+- Generic PC
+- Generic TV
 
 If you want any other system added to this theme please let me know.
 
