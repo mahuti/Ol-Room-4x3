@@ -2,6 +2,8 @@
 Attract Mode: Ol Room 4x3 theme layout
 Original post: http://forum.attractmode.org/index.php?topic=1260.0
 
+![Image of Nintendo SNES Theme Sample](https://raw.githubusercontent.com/mahuti/Ol-Room-4x3/master/OlRoom%204x3/Nintendo%20SNES/bg.jpg)
+
 This wasn't originally my theme. This is based off of OlRoom theme found here: 
 http://forum.attractmode.org/index.php?topic=926.15
 Please give them the credit for the original. 
